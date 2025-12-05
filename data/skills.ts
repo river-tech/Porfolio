@@ -30,10 +30,10 @@ export const skills: SkillSection[] = [
     id: 3,
     title: "Database & ORM",
     items: [
-      "PostgreSQL, SQLite",
-      "Prisma ORM",
+      "PostgreSQL, MySQL",
       "Schema design & migrations",
       "Query optimization basics",
+      "Data modeling & normalization",
     ],
   },
   {
@@ -41,9 +41,9 @@ export const skills: SkillSection[] = [
     title: "Infra & DevOps",
     items: [
       "Cloudflare (Tunnel / DNS / Zero Trust)",
-      "Vercel & Netlify deployment",
-      "GitHub Actions (CI/CD basics)",
+      "Vercel & Docker deployment",
       "Monitoring and error tracking",
+      "HTTPS, DNS, SSL/TLS essentials",
     ],
   },
   {

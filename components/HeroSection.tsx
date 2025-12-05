@@ -101,8 +101,7 @@ export function HeroSection() {
                 style={{ lineHeight: "1.9" }}
               >
                 <p>
-                  I'm Nguyễn Hà — River Nguyen. A student at Science and
-                  Technology High School with a passion for turning ideas into
+                  I'm Nguyễn Hà — River Nguyen. Currently a student at Danang University of Science and Technology, with a passion for turning ideas into
                   minimal, elegant web experiences.
                 </p>
                 <p>
